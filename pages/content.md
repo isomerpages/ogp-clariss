@@ -24,6 +24,3 @@ description: ""
     <td>Green</td>
     <td>blue</td>
   </tr>
-
-
-
